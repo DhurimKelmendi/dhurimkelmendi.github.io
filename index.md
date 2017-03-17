@@ -1,5 +1,5 @@
 ## Welcome to Dhurim Kelmendi's Personal Website
-This page serves as a portfolio, where I will be publishing my projects, blogging, and occasional tutorials about programming.
+This page serves as a portfolio, where I will be publishing my projects, [blogging](blog/index), and occasional tutorials about programming.
 
 
 ## Who am I?
